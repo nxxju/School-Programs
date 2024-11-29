@@ -5,4 +5,4 @@ if img is None:
     print("Error: Image not found.")
 else:
     pixel_value = img[100, 100]
-    print("R:", pixel_value[2], "G:", pixel_value[1], "B:", pixel_value[0])
+    print("Red:", pixel_value[2], "Green:", pixel_value[1], "Blue:", pixel_value[0])
