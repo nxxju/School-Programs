@@ -1,6 +1,6 @@
 hc= float(input("Please enter your height in cm: "))
-hi= height_cm*0.39
-hf= height_cm*0.032
+hi= hc*0.39
+hf= hc*0.032
 
 ri= hi%12
 
