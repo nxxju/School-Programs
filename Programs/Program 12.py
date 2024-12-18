@@ -1,3 +1,5 @@
+# Python program to find Mean, Median, Mode and Standard deviation.
+
 import statistics as stats
 
 x = list(map(int, input("Enter numbers separated by space [Eg:- 1 2 3]: ").split()))
