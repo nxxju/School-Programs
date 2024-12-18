@@ -1,3 +1,5 @@
+# Program to find the factorial of a number provided by the user.
+
 x = int(input("Enter a number: "))
 if x<0:
     print("Factorial is not defined for negative numbers.")
