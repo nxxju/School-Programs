@@ -1,3 +1,5 @@
+# Python program to check if an element is present in list.
+
 x = [10, 20, 30, 40, 50]
 
 y = int(input("Enter an element to check: "))
