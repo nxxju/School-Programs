@@ -1,3 +1,5 @@
+# Python program to load an image and display it.
+
 import cv2
 img = cv2.imread('image.png')  # Replace 'image.jpg' with the path to your image
 
