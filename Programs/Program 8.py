@@ -1,3 +1,5 @@
+# Program to check whether the number entered is a prime number.
+
 x = int(input("Enter a number: "))
 
 if x <= 1:
