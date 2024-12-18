@@ -1,3 +1,5 @@
+# Python program to find RGB value of the image at the pixel value (100,100).
+
 import cv2
 img = cv2.imread('image.jpg')  # Replace with your image file path
 
